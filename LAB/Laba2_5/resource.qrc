@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/card.png</file>
+        <file>img/coin.png</file>
+        <file>img/diamond.png</file>
+        <file>img/close.png</file>
+        <file>img/question_mark.png</file>
+        <file>img/cards_1.png</file>
+    </qresource>
+</RCC>
